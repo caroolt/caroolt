@@ -1,5 +1,5 @@
 ### Welcome to my github!
-#### Heyy, my name is Carolina Teixeira, I am a Full-Stack Developer focusing on NodeJS (Back-End), VueJS (Web Front-End).
+#### Heyy, my name is Carolina Teixeira, I am a Full-Stack Developer focusing on NodeJS (Back-End), ReactJS (Web Front-End).
 ##
 
 <div align="center">
